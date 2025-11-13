@@ -27,5 +27,7 @@ Persistent Scores: Use Local Storage to save and track high scores for returning
 
 📚 Sample Quiz Content
 What is the chemical symbol for water?
+
 In computing, what does CPU stand for?
+
 Which famous scientist developed the theory of relativity?
